@@ -1,6 +1,6 @@
 {
   "name": "qwen-orchestrator",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "description": "\ud83d\ude80 Multi-agent orchestration for Qwen Code CLI. 24 specialized AI agents and 82+ skills working as a professional dev department. Built for Alibaba's open-source AI coding assistant.",
   "main": "src/index.ts",
   "scripts": {
